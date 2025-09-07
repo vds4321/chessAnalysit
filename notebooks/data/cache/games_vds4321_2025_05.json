@@ -1,0 +1,35 @@
+{
+  "cached_at": "2025-09-06T19:36:45.675195",
+  "data": {
+    "games": [
+      {
+        "url": "https://www.chess.com/game/live/138542790758",
+        "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2025.05.17\"]\n[Round \"-\"]\n[White \"Settsosa\"]\n[Black \"vds4321\"]\n[Result \"0-1\"]\n[CurrentPosition \"rn4k1/ppp2ppp/8/b6P/5BP1/2p5/PPK3P1/RN1qrBNR w - - 4 16\"]\n[Timezone \"UTC\"]\n[ECO \"C20\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening-1...e5\"]\n[UTCDate \"2025.05.17\"]\n[UTCTime \"01:12:53\"]\n[WhiteElo \"217\"]\n[BlackElo \"362\"]\n[TimeControl \"600\"]\n[Termination \"vds4321 won by checkmate\"]\n[StartTime \"01:12:53\"]\n[EndDate \"2025.05.17\"]\n[EndTime \"01:18:03\"]\n[Link \"https://www.chess.com/game/live/138542790758\"]\n\n1. e4 {[%clk 0:09:56.5]} 1... e5 {[%clk 0:09:57.7]} 2. h4 {[%clk 0:09:54.7]} 2... Nf6 {[%clk 0:09:52.3]} 3. d3 {[%clk 0:09:51.5]} 3... d5 {[%clk 0:09:49.3]} 4. exd5 {[%clk 0:09:49.7]} 4... Nxd5 {[%clk 0:09:48.2]} 5. d4 {[%clk 0:09:48.3]} 5... Bb4+ {[%clk 0:09:37.5]} 6. c3 {[%clk 0:09:42.3]} 6... Ba5 {[%clk 0:09:20.1]} 7. Qa4+ {[%clk 0:09:30.1]} 7... Bd7 {[%clk 0:08:44]} 8. Qb3 {[%clk 0:09:23.9]} 8... O-O {[%clk 0:08:41.4]} 9. Qxd5 {[%clk 0:09:20.6]} 9... Re8 {[%clk 0:08:32.7]} 10. h5 {[%clk 0:09:13.4]} 10... exd4+ {[%clk 0:08:30.9]} 11. Kd1 {[%clk 0:09:01.2]} 11... Bg4+ {[%clk 0:08:25.6]} 12. f3 {[%clk 0:08:53.9]} 12... Qxd5 {[%clk 0:08:06.8]} 13. fxg4 {[%clk 0:08:45.7]} 13... dxc3+ {[%clk 0:07:54.5]} 14. Kc2 {[%clk 0:08:39.8]} 14... Re1 {[%clk 0:06:47.5]} 15. Bf4 {[%clk 0:08:15.1]} 15... Qd1# {[%clk 0:06:39.1]} 0-1\n",
+        "time_control": "600",
+        "end_time": 1747444683,
+        "rated": true,
+        "tcn": "mC0KpF!TltZJCJTJtB9zkszGdy6Zyr8!rJ98FNKBedZEnv7JvEBsdk8ecDJd",
+        "uuid": "0ebe53aa-32bc-11f0-92d0-fab24701000f",
+        "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+        "fen": "rn4k1/ppp2ppp/8/b6P/5BP1/2p5/PPK3P1/RN1qrBNR w - - 4 16",
+        "time_class": "rapid",
+        "rules": "chess",
+        "white": {
+          "rating": 217,
+          "result": "checkmated",
+          "@id": "https://api.chess.com/pub/player/settsosa",
+          "username": "Settsosa",
+          "uuid": "a7f2c354-d13b-11ee-8066-d76292293e15"
+        },
+        "black": {
+          "rating": 362,
+          "result": "win",
+          "@id": "https://api.chess.com/pub/player/vds4321",
+          "username": "vds4321",
+          "uuid": "c405e184-4922-11ef-8d0d-4726eaeb7772"
+        },
+        "eco": "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"
+      }
+    ]
+  }
+}
